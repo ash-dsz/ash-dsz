@@ -11,6 +11,12 @@ I work across the stack, experiment with new technologies, and enjoy turning ide
 - 🤖 Exploring AI agents, LLMs, and automation
 - 🧠 Practicing DSA and learning System Design
 
+## 🚀 Projects & Products
+
+- **Nexo** — A software product ecosystem for business operations.
+- **Nova** — An AI agent product focused on intelligent assistance and automation.
+- **Craftoo** — An e-commerce website for handmade gifts and crafts.
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
@@ -40,12 +46,6 @@ I work across the stack, experiment with new technologies, and enjoy turning ide
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## 🚀 Projects & Products
-
-- **Nexo** — A software product ecosystem for business operations.
-- **Nova** — An AI agent product focused on intelligent assistance and automation.
-- **Craftoo** — An e-commerce website for handmade gifts and crafts.
 
 
 ## 🤝 Connect With Me
