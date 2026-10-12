@@ -66,6 +66,7 @@ select {
 
 .page-shell {
   position: relative;
+  isolation: isolate;
 }
 
 .page-shell::before {
@@ -621,6 +622,27 @@ select {
   transform: translateY(0);
 }
 
+.project-card.reveal {
+  transform: translateY(14px);
+  transition-duration: 560ms;
+}
+
+.project-card.reveal.is-visible {
+  transform: translateY(0);
+}
+
+.project-list > .project-card:nth-child(2) {
+  transition-delay: 70ms;
+}
+
+.project-list > .project-card:nth-child(3) {
+  transition-delay: 140ms;
+}
+
+.project-list > .project-card:nth-child(4) {
+  transition-delay: 210ms;
+}
+
 @media (max-width: 900px) {
   .hero,
   .about-layout,
@@ -714,5 +736,7 @@ select {
   .reveal {
     opacity: 1;
     transform: none;
+    transition-delay: 0s !important;
   }
+
 }
