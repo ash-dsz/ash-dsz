@@ -609,40 +609,6 @@ select {
   color: #f8fafc;
 }
 
-.reveal {
-  opacity: 0;
-  transform: translateY(24px);
-  transition:
-    opacity 700ms ease,
-    transform 700ms ease;
-}
-
-.reveal.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.project-card.reveal {
-  transform: translateY(14px);
-  transition-duration: 560ms;
-}
-
-.project-card.reveal.is-visible {
-  transform: translateY(0);
-}
-
-.project-list > .project-card:nth-child(2) {
-  transition-delay: 70ms;
-}
-
-.project-list > .project-card:nth-child(3) {
-  transition-delay: 140ms;
-}
-
-.project-list > .project-card:nth-child(4) {
-  transition-delay: 210ms;
-}
-
 @media (max-width: 900px) {
   .hero,
   .about-layout,
@@ -697,6 +663,10 @@ select {
     flex: 1 1 auto;
   }
 
+  .social-row a {
+    flex: 0 0 auto;
+  }
+
   .nav-cta,
   .button,
   .button.primary,
@@ -731,12 +701,6 @@ select {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
-  }
-
-  .reveal {
-    opacity: 1;
-    transform: none;
-    transition-delay: 0s !important;
   }
 
 }
