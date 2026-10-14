@@ -50,6 +50,7 @@ I work across the stack, experiment with new technologies, and enjoy turning ide
 
 ## 🤝 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://ash-dsz.github.io/ash-dsz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashleydsouza19/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ash-dsz)
 

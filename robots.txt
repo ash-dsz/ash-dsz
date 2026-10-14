@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ash-dsz.github.io/ash-dsz/sitemap.xml
